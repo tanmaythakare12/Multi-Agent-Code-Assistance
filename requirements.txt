@@ -1,1 +1,9 @@
 openai
+langgraph
+llama-index-core
+llama-index-embeddings-huggingface
+sentence-transformers
+transformers
+datasets
+accelerate
+torch
